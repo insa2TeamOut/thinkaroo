@@ -1,0 +1,10 @@
+.sketch-canvas-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  canvas {
+    border: 1px solid #ccc;
+  }
+  
